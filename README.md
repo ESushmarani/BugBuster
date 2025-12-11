@@ -1,4 +1,4 @@
-# 🐞BugBuster9000 – Safe‑Mode Web Vulnerability Scanner
+# 🐞BugBuster – Safe‑Mode Web Vulnerability Scanner
 
   BugBuster9000 is a lightweight Flask-based tool that safely scans your websites for common vulnerabilities.
   Simple to run, easy to use, and built for ethical testing only.
